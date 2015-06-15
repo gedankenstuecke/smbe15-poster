@@ -31314,9 +31314,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76715075"
-     inkscape:cx="2449.6582"
-     inkscape:cy="1089.3501"
+     inkscape:zoom="0.38357538"
+     inkscape:cx="2355.8644"
+     inkscape:cy="1483.874"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36352,52 +36352,7 @@
        width="711.57654"
        id="rect164478"
        style="fill:none;fill-opacity:1;stroke:none" />
-    <flowRoot
-       xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
-       id="flowRoot164480"
-       transform="translate(44,0)"><flowRegion
-         id="flowRegion164482"><use
-           x="0"
-           y="0"
-           xlink:href="#rect164476"
-           id="use164484"
-           width="2979.9211"
-           height="4212.9922" /><use
-           x="0"
-           y="0"
-           xlink:href="#rect164478"
-           id="use164486"
-           width="2979.9211"
-           height="4212.9922" /></flowRegion><flowPara
-         id="flowPara164488"
-         style="font-size:18px">[1] Huang W, Li L, Myers JR, and Marth GT. Bioinformatics (2012) 28 (4): 593-594  </flowPara><flowPara
-         id="flowPara164490"
-         style="font-size:18px">[2] http://sourceforge.net/projects/mira-assembler/ </flowPara><flowPara
-         id="flowPara164492"
-         style="font-size:18px">[3] Zerbino DR and Birney E. Genome Research (2008) 18:821-829. </flowPara><flowPara
-         id="flowPara164494"
-         style="font-size:18px">[4] Simpson JT and Durbin R. Bioinformatics (2010) 26 (12): i367-i373 </flowPara><flowPara
-         id="flowPara164496"
-         style="font-size:18px">[5] Namiki T, Hachiya T, Tanaka H, Sakakibara Y. Nucleic Acids Res, (2012) 40(20), e155 </flowPara><flowPara
-         style="font-size:18px"
-         id="flowPara164498">[6] Huson DH, Auch AF, Qi J, et al.  Genome Research (2007) 17: 000</flowPara><flowPara
-         style="font-size:18px"
-         id="flowPara164500">[7| Stanke M, Steinkamp R, Waack S and Morgenstern B (2004) Nucleic Acids Research, Vol. 32, W309-W312 </flowPara><flowPara
-         style="font-size:18px"
-         id="flowPara164502">[8] Genis Parra, Keith Bradnam and Ian Korf (2007) Bioinformatics, 23: 1061-1067 </flowPara><flowPara
-         style="font-size:18px"
-         id="flowPara164504">[9] Trapnell C, Pachter L, Salzberg SL. Bioinformatics (2009) 25 (9): 1105-1111.</flowPara><flowPara
-         style="font-size:18px"
-         id="flowPara164506">[10] http://sourceforge.net/projects/hamstr/ </flowPara><flowPara
-         style="font-size:18px"
-         id="flowPara164508">[11] Ebersberger I, de Matos Simoes R, Kupczok A, Gube M, Kothe E, Voigt K, and von Haeseler A. Mol Biol Evol (2012) 29 (5): 1319-1334 </flowPara><flowPara
-         style="font-size:18px"
-         id="flowPara164510">[12] Katoh, Standley (2013) Molecular Biology and Evolution 30:772-780  </flowPara><flowPara
-         style="font-size:18px"
-         id="flowPara164512">[13] Stamatakis A. Bioinformatics (2006) 22 (21): 2688-2690 </flowPara><flowPara
-         style="font-size:18px"
-         id="flowPara164514">[14] Conesa A, Götz S, Garcia-Gomez JM, Terol J, Talon M and Robles M. Bioinformatics, (2005) 21: 3674-3676.</flowPara></flowRoot>    <g
+    <g
        id="g169168"
        transform="matrix(1.2547642,0,0,1.2547642,-29.922766,851.9824)">
       <g
@@ -40424,7 +40379,7 @@
          style="font-size:20px;text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold;text-align:justify;text-anchor:start"
    id="flowSpan266067">Figure 3: </flowSpan>Assembly results over the 11 data sets. Bars are centered at total assembly length (red lines are reference lengths). Height of the bars shows the NG50 size. For the assemblies with the asterisk the total assembly length was less than 50% of the reference length. A default height was used in those instances.</flowPara></flowRoot>    <rect
-       style="opacity:0.13168724000000001;fill:#808080;stroke-linecap:butt;stroke-linejoin:round"
+       style="opacity:0.13168724000000001;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
        id="rect266106"
        width="722.63727"
        height="1506.4502"
@@ -50400,13 +50355,17 @@ RqPRaDQajUaj0Wg0x4D/Cy8g+o+6IUS7AAAAAElFTkSuQmCC
          style="text-align:justify;text-anchor:start"
          id="flowPara40418" /><flowPara
          id="flowPara40404"
-         style="text-align:justify;text-anchor:start">The scaffolds of the draft genomes of Cladonia grayi and Asterochloris sp. were concatenated to create contiguous pseudo-chromosomes (Figure 1, right). These were analysed using Repeatmasker [2] (Box 1) and Gepard [3] (Fig 2.) </flowPara><flowPara
+         style="text-align:justify;text-anchor:start">The scaffolds of the draft genomes of <flowSpan
+   style="font-style:italic"
+   id="flowSpan133699">Cladonia grayi</flowSpan> [2] and <flowSpan
+   style="font-style:italic"
+   id="flowSpan133701">Asterochloris sp.</flowSpan> [3] were concatenated to create contiguous pseudo-chromosomes (Figure 1, right). These were analysed using Repeatmasker [4] (Box 1) and Gepard [5] (Fig 2.) </flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara40420" /><flowPara
          id="flowPara40406"
          style="text-align:justify;text-anchor:start">From the pseudo-chromosomes reads were simulated with the parameters estimated from <flowSpan
    style="font-style:italic;text-align:justify;text-anchor:start"
-   id="flowSpan40408">L. pustulata, </flowSpan>using ART [4], and mixed into 11 twin data sets of varying composition (Table 1).</flowPara></flowRoot>    <g
+   id="flowSpan40408">L. pustulata, </flowSpan>using ART [6], and mixed into 11 twin data sets of varying composition (Table 1).</flowPara></flowRoot>    <g
        id="g132706">
       <g
          style="stroke-linecap:butt;stroke-linejoin:round"
@@ -57001,136 +56960,123 @@ RqPRaDQajUaj0Wg0x4D/Cy8g+o+6IUS7AAAAAElFTkSuQmCC
         </g>
       </g>
     </g>
-    <g
-       transform="translate(-5.253319,5.276429)"
-       id="g81958"
-       style="stroke-linecap:butt;stroke-linejoin:round">
-      <rect
-         rx="0.43073276"
-         y="368.621"
-         x="1518.3827"
-         height="89.054832"
-         width="1408.6182"
-         id="rect105541"
-         style="fill:#808080;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text105543"
-         y="434.74451"
-         x="2228.3193"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
-         xml:space="preserve"><tspan
-           id="tspan105545"
-           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
-           y="434.74451"
-           x="2228.3193"
-           sodipodi:role="line">Summary</tspan></text>
-      <rect
-         rx="0.41713282"
-         y="480.71335"
-         x="1542.834"
-         height="298.8869"
-         width="647.40967"
-         id="rect105579"
-         style="fill:none;stroke:none" />
-      <rect
-         rx="0.41713282"
-         y="448.7131"
-         x="2244.2126"
-         height="395.10641"
-         width="674.95874"
-         id="rect105581"
-         style="fill:none;stroke:none" />
-      <flowRoot
-         transform="translate(14.715405,-16)"
-         id="flowRoot105583"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
-         xml:space="preserve"><flowRegion
-           id="flowRegion105585"><use
-             height="4212.9922"
-             width="2979.9211"
-             id="use105587"
-             xlink:href="#rect105579"
-             y="0"
-             x="0" /><use
-             height="4212.9922"
-             width="2979.9211"
-             id="use105589"
-             xlink:href="#rect105581"
-             y="0"
-             x="0" /></flowRegion><flowPara
-           style="font-size:26px"
-           id="flowPara17208">Twin sets are valuable for guiding strategic decisions during planning of metagenome sequencing and assembly.</flowPara><flowPara
-           style="font-size:26px"
-           id="flowPara17216" /><flowPara
-           style="font-size:26px"
-           id="flowPara17218">Assembler performance already varies substantially for single species data. </flowPara><flowPara
-           style="font-size:26px"
-           id="flowPara306046" /><flowPara
-           style="font-size:26px"
-           id="flowPara306048">Mixing data from different species inflates the assembler performance differences, with <flowSpan
-   id="flowSpan17685"
-   style="font-size:26px;font-style:italic">MIRA &amp; SPAdes</flowSpan> performing best.</flowPara><flowPara
-           style="font-size:26px"
-           id="flowPara17226" /><flowPara
-           style="font-size:26px"
-           id="flowPara17228" /><flowPara
-           style="font-size:26px"
-           id="flowPara306061">Optimising the N50 can lead to the preclusion of  sequences representing the low-coverage genome. </flowPara><flowPara
-           style="font-size:26px"
-           id="flowPara306063" /><flowPara
-           id="flowPara105613"
-           style="font-size:26px">Real world data </flowPara></flowRoot>      <path
-         transform="matrix(0.4242424,0,0,0.4242424,775.22734,-1441.4572)"
-         d="m 1829.7358,4579.1689 c 0,20.9208 -16.9596,37.8804 -37.8803,37.8804 -20.9208,0 -37.8804,-16.9596 -37.8804,-37.8804 0,-20.9207 16.9596,-37.8803 37.8804,-37.8803 20.9207,0 37.8803,16.9596 37.8803,37.8803 z"
-         sodipodi:ry="37.880352"
-         sodipodi:rx="37.880352"
-         sodipodi:cy="4579.1689"
-         sodipodi:cx="1791.8555"
-         id="path105623"
-         style="fill:#808080;fill-opacity:1;stroke:none"
-         sodipodi:type="arc" />
-      <image
-         width="33"
-         height="33"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAABHNCSVQICAgIfAhkiAAAAp5JREFU WIXF2M9L+nAcx/HnPpG2QYOJFgaRI6t56FinCLJT0CEiEP9Byz+hICgqb4EdIqhofEEtirAwV1pr 34PM79e0NEv3Ou33+8G2D3zeH8lxHIcOUqlUOD8/xzRNbm9veXx85O3tDYCBgQFUVSUYDKLrOjMz MyiK0sljAaakdohyucze3h7ZbLZetF2EEBiGwdLSEsFgsHvE+/s7mUyGw8NDKpVKR8VbYebm5ojH 4/h8vu8hnp6eSKfT5HK5rop/TCAQIJlMfvZWmhF3d3ekUikeHh5+BeBGlmUSiQQTExNNCPH/nmVZ PQEAPD8/k0qlKBQKTefqCNu22dzc7AnATbVaZWtrC8uyWiMymcyv/QNfpVQqsbOz04ywLIujo6Oe A9ycnJyQz+cbEQcHB10Pw26zv7//D1GtVjk+Pu4rAODi4oJisVhDXF5e8vr62ncEwNnZWQ1hmqYn AAC3tri+vvYM4dYW7nfxIuVyGdM0FdHvUfExhUJBFR1OJ3oW27aF8Pv9niLGxsZKQtM0zwCyLBON RktiZGTEM8To6CgAIhKJeIZwawvDMBgcHPQEMTs7W0P4/X5isVjfAePj4wQCgRoCYGFhAUmS+opY XFysbwuAUCjE/Px83wCGYRCNRhsRAPF4nFAo1HOALMusrKw0HKsjfD4fyWQSWZZ7BhBCsL6+jqqq rREAmqaRSCS+alR+BFhbW2v4DG5aNj83Nzek0+lfm3krisLGxga6rrc6/Xkb+PLywvb2Ntls9keA 6elpVldXGR4e/uyS9g1xPp9nd3eX787AwuEwy8vLTE5Otru0PcLN/f09p6en9aWBjw3M0NBQfWkg FosRDoc79U5JjuM0/ykdJJfLyVdXV5pt21IkEinqum61v6tl/vwF2HAW+Muc0IQAAAAASUVORK5C YII= "
-         id="image105644"
-         x="1516.6127"
-         y="583.43896"
-         style="stroke-linecap:butt;stroke-linejoin:round" />
-      <image
-         width="33"
-         height="33"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAABHNCSVQICAgIfAhkiAAAAp5JREFU WIXF2M9L+nAcx/HnPpG2QYOJFgaRI6t56FinCLJT0CEiEP9Byz+hICgqb4EdIqhofEEtirAwV1pr 34PM79e0NEv3Ou33+8G2D3zeH8lxHIcOUqlUOD8/xzRNbm9veXx85O3tDYCBgQFUVSUYDKLrOjMz MyiK0sljAaakdohyucze3h7ZbLZetF2EEBiGwdLSEsFgsHvE+/s7mUyGw8NDKpVKR8VbYebm5ojH 4/h8vu8hnp6eSKfT5HK5rop/TCAQIJlMfvZWmhF3d3ekUikeHh5+BeBGlmUSiQQTExNNCPH/nmVZ PQEAPD8/k0qlKBQKTefqCNu22dzc7AnATbVaZWtrC8uyWiMymcyv/QNfpVQqsbOz04ywLIujo6Oe A9ycnJyQz+cbEQcHB10Pw26zv7//D1GtVjk+Pu4rAODi4oJisVhDXF5e8vr62ncEwNnZWQ1hmqYn AAC3tri+vvYM4dYW7nfxIuVyGdM0FdHvUfExhUJBFR1OJ3oW27aF8Pv9niLGxsZKQtM0zwCyLBON RktiZGTEM8To6CgAIhKJeIZwawvDMBgcHPQEMTs7W0P4/X5isVjfAePj4wQCgRoCYGFhAUmS+opY XFysbwuAUCjE/Px83wCGYRCNRhsRAPF4nFAo1HOALMusrKw0HKsjfD4fyWQSWZZ7BhBCsL6+jqqq rREAmqaRSCS+alR+BFhbW2v4DG5aNj83Nzek0+lfm3krisLGxga6rrc6/Xkb+PLywvb2Ntls9keA 6elpVldXGR4e/uyS9g1xPp9nd3eX787AwuEwy8vLTE5Otru0PcLN/f09p6en9aWBjw3M0NBQfWkg FosRDoc79U5JjuM0/ykdJJfLyVdXV5pt21IkEinqum61v6tl/vwF2HAW+Muc0IQAAAAASUVORK5C YII= "
-         id="image105655"
-         x="1515.7253"
-         y="693.27014"
-         style="stroke-linecap:butt;stroke-linejoin:round" />
-      <image
-         width="33"
-         height="33"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAABHNCSVQICAgIfAhkiAAAAp5JREFU WIXF2M9L+nAcx/HnPpG2QYOJFgaRI6t56FinCLJT0CEiEP9Byz+hICgqb4EdIqhofEEtirAwV1pr 34PM79e0NEv3Ou33+8G2D3zeH8lxHIcOUqlUOD8/xzRNbm9veXx85O3tDYCBgQFUVSUYDKLrOjMz MyiK0sljAaakdohyucze3h7ZbLZetF2EEBiGwdLSEsFgsHvE+/s7mUyGw8NDKpVKR8VbYebm5ojH 4/h8vu8hnp6eSKfT5HK5rop/TCAQIJlMfvZWmhF3d3ekUikeHh5+BeBGlmUSiQQTExNNCPH/nmVZ PQEAPD8/k0qlKBQKTefqCNu22dzc7AnATbVaZWtrC8uyWiMymcyv/QNfpVQqsbOz04ywLIujo6Oe A9ycnJyQz+cbEQcHB10Pw26zv7//D1GtVjk+Pu4rAODi4oJisVhDXF5e8vr62ncEwNnZWQ1hmqYn AAC3tri+vvYM4dYW7nfxIuVyGdM0FdHvUfExhUJBFR1OJ3oW27aF8Pv9niLGxsZKQtM0zwCyLBON RktiZGTEM8To6CgAIhKJeIZwawvDMBgcHPQEMTs7W0P4/X5isVjfAePj4wQCgRoCYGFhAUmS+opY XFysbwuAUCjE/Px83wCGYRCNRhsRAPF4nFAo1HOALMusrKw0HKsjfD4fyWQSWZZ7BhBCsL6+jqqq rREAmqaRSCS+alR+BFhbW2v4DG5aNj83Nzek0+lfm3krisLGxga6rrc6/Xkb+PLywvb2Ntls9keA 6elpVldXGR4e/uyS9g1xPp9nd3eX787AwuEwy8vLTE5Otru0PcLN/f09p6en9aWBjw3M0NBQfWkg FosRDoc79U5JjuM0/ykdJJfLyVdXV5pt21IkEinqum61v6tl/vwF2HAW+Muc0IQAAAAASUVORK5C YII= "
-         id="image105668"
-         x="2215.2617"
-         y="485.31201"
-         style="stroke-linecap:butt;stroke-linejoin:round" />
-      <image
-         width="33"
-         height="33"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAABHNCSVQICAgIfAhkiAAAAp5JREFU WIXF2M9L+nAcx/HnPpG2QYOJFgaRI6t56FinCLJT0CEiEP9Byz+hICgqb4EdIqhofEEtirAwV1pr 34PM79e0NEv3Ou33+8G2D3zeH8lxHIcOUqlUOD8/xzRNbm9veXx85O3tDYCBgQFUVSUYDKLrOjMz MyiK0sljAaakdohyucze3h7ZbLZetF2EEBiGwdLSEsFgsHvE+/s7mUyGw8NDKpVKR8VbYebm5ojH 4/h8vu8hnp6eSKfT5HK5rop/TCAQIJlMfvZWmhF3d3ekUikeHh5+BeBGlmUSiQQTExNNCPH/nmVZ PQEAPD8/k0qlKBQKTefqCNu22dzc7AnATbVaZWtrC8uyWiMymcyv/QNfpVQqsbOz04ywLIujo6Oe A9ycnJyQz+cbEQcHB10Pw26zv7//D1GtVjk+Pu4rAODi4oJisVhDXF5e8vr62ncEwNnZWQ1hmqYn AAC3tri+vvYM4dYW7nfxIuVyGdM0FdHvUfExhUJBFR1OJ3oW27aF8Pv9niLGxsZKQtM0zwCyLBON RktiZGTEM8To6CgAIhKJeIZwawvDMBgcHPQEMTs7W0P4/X5isVjfAePj4wQCgRoCYGFhAUmS+opY XFysbwuAUCjE/Px83wCGYRCNRhsRAPF4nFAo1HOALMusrKw0HKsjfD4fyWQSWZZ7BhBCsL6+jqqq rREAmqaRSCS+alR+BFhbW2v4DG5aNj83Nzek0+lfm3krisLGxga6rrc6/Xkb+PLywvb2Ntls9keA 6elpVldXGR4e/uyS9g1xPp9nd3eX787AwuEwy8vLTE5Otru0PcLN/f09p6en9aWBjw3M0NBQfWkg FosRDoc79U5JjuM0/ykdJJfLyVdXV5pt21IkEinqum61v6tl/vwF2HAW+Muc0IQAAAAASUVORK5C YII= "
-         id="image105679"
-         x="2215.5576"
-         y="584.39673"
-         style="stroke-linecap:butt;stroke-linejoin:round" />
-      <image
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         y="680.39673"
-         x="2215.5576"
-         id="image17259"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAABHNCSVQICAgIfAhkiAAAAp5JREFU WIXF2M9L+nAcx/HnPpG2QYOJFgaRI6t56FinCLJT0CEiEP9Byz+hICgqb4EdIqhofEEtirAwV1pr 34PM79e0NEv3Ou33+8G2D3zeH8lxHIcOUqlUOD8/xzRNbm9veXx85O3tDYCBgQFUVSUYDKLrOjMz MyiK0sljAaakdohyucze3h7ZbLZetF2EEBiGwdLSEsFgsHvE+/s7mUyGw8NDKpVKR8VbYebm5ojH 4/h8vu8hnp6eSKfT5HK5rop/TCAQIJlMfvZWmhF3d3ekUikeHh5+BeBGlmUSiQQTExNNCPH/nmVZ PQEAPD8/k0qlKBQKTefqCNu22dzc7AnATbVaZWtrC8uyWiMymcyv/QNfpVQqsbOz04ywLIujo6Oe A9ycnJyQz+cbEQcHB10Pw26zv7//D1GtVjk+Pu4rAODi4oJisVhDXF5e8vr62ncEwNnZWQ1hmqYn AAC3tri+vvYM4dYW7nfxIuVyGdM0FdHvUfExhUJBFR1OJ3oW27aF8Pv9niLGxsZKQtM0zwCyLBON RktiZGTEM8To6CgAIhKJeIZwawvDMBgcHPQEMTs7W0P4/X5isVjfAePj4wQCgRoCYGFhAUmS+opY XFysbwuAUCjE/Px83wCGYRCNRhsRAPF4nFAo1HOALMusrKw0HKsjfD4fyWQSWZZ7BhBCsL6+jqqq rREAmqaRSCS+alR+BFhbW2v4DG5aNj83Nzek0+lfm3krisLGxga6rrc6/Xkb+PLywvb2Ntls9keA 6elpVldXGR4e/uyS9g1xPp9nd3eX787AwuEwy8vLTE5Otru0PcLN/f09p6en9aWBjw3M0NBQfWkg FosRDoc79U5JjuM0/ykdJJfLyVdXV5pt21IkEinqum61v6tl/vwF2HAW+Muc0IQAAAAASUVORK5C YII= "
-         height="33"
-         width="33" />
-    </g>
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect105541"
+       width="1408.6182"
+       height="89.054832"
+       x="1513.1294"
+       y="373.89743"
+       rx="0.43073276" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       x="2223.0659"
+       y="440.02094"
+       id="text105543"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="2223.0659"
+         y="440.02094"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+         id="tspan105545">Summary</tspan></text>
+    <rect
+       style="fill:none;stroke:none"
+       id="rect105579"
+       width="647.40967"
+       height="298.8869"
+       x="1537.5807"
+       y="485.98978"
+       rx="0.41713282" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect105581"
+       width="674.95874"
+       height="395.10641"
+       x="2238.9592"
+       y="453.98953"
+       rx="0.41713282" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       id="flowRoot105583"
+       transform="translate(9.462086,-10.723571)"><flowRegion
+         id="flowRegion105585"><use
+           x="0"
+           y="0"
+           xlink:href="#rect105579"
+           id="use105587"
+           width="2979.9211"
+           height="4212.9922" /><use
+           x="0"
+           y="0"
+           xlink:href="#rect105581"
+           id="use105589"
+           width="2979.9211"
+           height="4212.9922" /></flowRegion><flowPara
+         id="flowPara17208"
+         style="font-size:26px">Twin sets are valuable for guiding strategic decisions during planning of metagenome sequencing and assembly.</flowPara><flowPara
+         id="flowPara17216"
+         style="font-size:26px" /><flowPara
+         id="flowPara17218"
+         style="font-size:26px">Assembler performance already varies substantially for single species data. </flowPara><flowPara
+         id="flowPara306046"
+         style="font-size:26px" /><flowPara
+         id="flowPara306048"
+         style="font-size:26px">Mixing data from different species inflates the assembler performance differences, with <flowSpan
+   style="font-size:26px;font-style:italic"
+   id="flowSpan17685">MIRA &amp; SPAdes</flowSpan> performing best.</flowPara><flowPara
+         id="flowPara17226"
+         style="font-size:26px" /><flowPara
+         id="flowPara17228"
+         style="font-size:26px" /><flowPara
+         id="flowPara306061"
+         style="font-size:26px">Optimising the N50 can lead to the preclusion of  sequences representing the low-coverage genome. </flowPara><flowPara
+         id="flowPara306063"
+         style="font-size:26px" /><flowPara
+         style="font-size:26px"
+         id="flowPara105613">Real world data sets from lichen thalli not only contain fungal &amp; algal DNA but also a large bacterial proportion. </flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       id="path105623"
+       sodipodi:cx="1791.8555"
+       sodipodi:cy="4579.1689"
+       sodipodi:rx="37.880352"
+       sodipodi:ry="37.880352"
+       d="m 1829.7358,4579.1689 a 37.880352,37.880352 0 1 1 -75.7607,0 37.880352,37.880352 0 1 1 75.7607,0 z"
+       transform="matrix(0.4242424,0,0,0.4242424,769.97402,-1436.1808)" />
+    <image
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       y="588.71539"
+       x="1511.3594"
+       id="image105644"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAABHNCSVQICAgIfAhkiAAAAp5JREFU WIXF2M9L+nAcx/HnPpG2QYOJFgaRI6t56FinCLJT0CEiEP9Byz+hICgqb4EdIqhofEEtirAwV1pr 34PM79e0NEv3Ou33+8G2D3zeH8lxHIcOUqlUOD8/xzRNbm9veXx85O3tDYCBgQFUVSUYDKLrOjMz MyiK0sljAaakdohyucze3h7ZbLZetF2EEBiGwdLSEsFgsHvE+/s7mUyGw8NDKpVKR8VbYebm5ojH 4/h8vu8hnp6eSKfT5HK5rop/TCAQIJlMfvZWmhF3d3ekUikeHh5+BeBGlmUSiQQTExNNCPH/nmVZ PQEAPD8/k0qlKBQKTefqCNu22dzc7AnATbVaZWtrC8uyWiMymcyv/QNfpVQqsbOz04ywLIujo6Oe A9ycnJyQz+cbEQcHB10Pw26zv7//D1GtVjk+Pu4rAODi4oJisVhDXF5e8vr62ncEwNnZWQ1hmqYn AAC3tri+vvYM4dYW7nfxIuVyGdM0FdHvUfExhUJBFR1OJ3oW27aF8Pv9niLGxsZKQtM0zwCyLBON RktiZGTEM8To6CgAIhKJeIZwawvDMBgcHPQEMTs7W0P4/X5isVjfAePj4wQCgRoCYGFhAUmS+opY XFysbwuAUCjE/Px83wCGYRCNRhsRAPF4nFAo1HOALMusrKw0HKsjfD4fyWQSWZZ7BhBCsL6+jqqq rREAmqaRSCS+alR+BFhbW2v4DG5aNj83Nzek0+lfm3krisLGxga6rrc6/Xkb+PLywvb2Ntls9keA 6elpVldXGR4e/uyS9g1xPp9nd3eX787AwuEwy8vLTE5Otru0PcLN/f09p6en9aWBjw3M0NBQfWkg FosRDoc79U5JjuM0/ykdJJfLyVdXV5pt21IkEinqum61v6tl/vwF2HAW+Muc0IQAAAAASUVORK5C YII= "
+       height="33"
+       width="33" />
+    <image
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       y="698.54657"
+       x="1510.472"
+       id="image105655"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAABHNCSVQICAgIfAhkiAAAAp5JREFU WIXF2M9L+nAcx/HnPpG2QYOJFgaRI6t56FinCLJT0CEiEP9Byz+hICgqb4EdIqhofEEtirAwV1pr 34PM79e0NEv3Ou33+8G2D3zeH8lxHIcOUqlUOD8/xzRNbm9veXx85O3tDYCBgQFUVSUYDKLrOjMz MyiK0sljAaakdohyucze3h7ZbLZetF2EEBiGwdLSEsFgsHvE+/s7mUyGw8NDKpVKR8VbYebm5ojH 4/h8vu8hnp6eSKfT5HK5rop/TCAQIJlMfvZWmhF3d3ekUikeHh5+BeBGlmUSiQQTExNNCPH/nmVZ PQEAPD8/k0qlKBQKTefqCNu22dzc7AnATbVaZWtrC8uyWiMymcyv/QNfpVQqsbOz04ywLIujo6Oe A9ycnJyQz+cbEQcHB10Pw26zv7//D1GtVjk+Pu4rAODi4oJisVhDXF5e8vr62ncEwNnZWQ1hmqYn AAC3tri+vvYM4dYW7nfxIuVyGdM0FdHvUfExhUJBFR1OJ3oW27aF8Pv9niLGxsZKQtM0zwCyLBON RktiZGTEM8To6CgAIhKJeIZwawvDMBgcHPQEMTs7W0P4/X5isVjfAePj4wQCgRoCYGFhAUmS+opY XFysbwuAUCjE/Px83wCGYRCNRhsRAPF4nFAo1HOALMusrKw0HKsjfD4fyWQSWZZ7BhBCsL6+jqqq rREAmqaRSCS+alR+BFhbW2v4DG5aNj83Nzek0+lfm3krisLGxga6rrc6/Xkb+PLywvb2Ntls9keA 6elpVldXGR4e/uyS9g1xPp9nd3eX787AwuEwy8vLTE5Otru0PcLN/f09p6en9aWBjw3M0NBQfWkg FosRDoc79U5JjuM0/ykdJJfLyVdXV5pt21IkEinqum61v6tl/vwF2HAW+Muc0IQAAAAASUVORK5C YII= "
+       height="33"
+       width="33" />
+    <image
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       y="490.58844"
+       x="2210.0083"
+       id="image105668"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAABHNCSVQICAgIfAhkiAAAAp5JREFU WIXF2M9L+nAcx/HnPpG2QYOJFgaRI6t56FinCLJT0CEiEP9Byz+hICgqb4EdIqhofEEtirAwV1pr 34PM79e0NEv3Ou33+8G2D3zeH8lxHIcOUqlUOD8/xzRNbm9veXx85O3tDYCBgQFUVSUYDKLrOjMz MyiK0sljAaakdohyucze3h7ZbLZetF2EEBiGwdLSEsFgsHvE+/s7mUyGw8NDKpVKR8VbYebm5ojH 4/h8vu8hnp6eSKfT5HK5rop/TCAQIJlMfvZWmhF3d3ekUikeHh5+BeBGlmUSiQQTExNNCPH/nmVZ PQEAPD8/k0qlKBQKTefqCNu22dzc7AnATbVaZWtrC8uyWiMymcyv/QNfpVQqsbOz04ywLIujo6Oe A9ycnJyQz+cbEQcHB10Pw26zv7//D1GtVjk+Pu4rAODi4oJisVhDXF5e8vr62ncEwNnZWQ1hmqYn AAC3tri+vvYM4dYW7nfxIuVyGdM0FdHvUfExhUJBFR1OJ3oW27aF8Pv9niLGxsZKQtM0zwCyLBON RktiZGTEM8To6CgAIhKJeIZwawvDMBgcHPQEMTs7W0P4/X5isVjfAePj4wQCgRoCYGFhAUmS+opY XFysbwuAUCjE/Px83wCGYRCNRhsRAPF4nFAo1HOALMusrKw0HKsjfD4fyWQSWZZ7BhBCsL6+jqqq rREAmqaRSCS+alR+BFhbW2v4DG5aNj83Nzek0+lfm3krisLGxga6rrc6/Xkb+PLywvb2Ntls9keA 6elpVldXGR4e/uyS9g1xPp9nd3eX787AwuEwy8vLTE5Otru0PcLN/f09p6en9aWBjw3M0NBQfWkg FosRDoc79U5JjuM0/ykdJJfLyVdXV5pt21IkEinqum61v6tl/vwF2HAW+Muc0IQAAAAASUVORK5C YII= "
+       height="33"
+       width="33" />
+    <image
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       y="589.67316"
+       x="2210.3042"
+       id="image105679"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAABHNCSVQICAgIfAhkiAAAAp5JREFU WIXF2M9L+nAcx/HnPpG2QYOJFgaRI6t56FinCLJT0CEiEP9Byz+hICgqb4EdIqhofEEtirAwV1pr 34PM79e0NEv3Ou33+8G2D3zeH8lxHIcOUqlUOD8/xzRNbm9veXx85O3tDYCBgQFUVSUYDKLrOjMz MyiK0sljAaakdohyucze3h7ZbLZetF2EEBiGwdLSEsFgsHvE+/s7mUyGw8NDKpVKR8VbYebm5ojH 4/h8vu8hnp6eSKfT5HK5rop/TCAQIJlMfvZWmhF3d3ekUikeHh5+BeBGlmUSiQQTExNNCPH/nmVZ PQEAPD8/k0qlKBQKTefqCNu22dzc7AnATbVaZWtrC8uyWiMymcyv/QNfpVQqsbOz04ywLIujo6Oe A9ycnJyQz+cbEQcHB10Pw26zv7//D1GtVjk+Pu4rAODi4oJisVhDXF5e8vr62ncEwNnZWQ1hmqYn AAC3tri+vvYM4dYW7nfxIuVyGdM0FdHvUfExhUJBFR1OJ3oW27aF8Pv9niLGxsZKQtM0zwCyLBON RktiZGTEM8To6CgAIhKJeIZwawvDMBgcHPQEMTs7W0P4/X5isVjfAePj4wQCgRoCYGFhAUmS+opY XFysbwuAUCjE/Px83wCGYRCNRhsRAPF4nFAo1HOALMusrKw0HKsjfD4fyWQSWZZ7BhBCsL6+jqqq rREAmqaRSCS+alR+BFhbW2v4DG5aNj83Nzek0+lfm3krisLGxga6rrc6/Xkb+PLywvb2Ntls9keA 6elpVldXGR4e/uyS9g1xPp9nd3eX787AwuEwy8vLTE5Otru0PcLN/f09p6en9aWBjw3M0NBQfWkg FosRDoc79U5JjuM0/ykdJJfLyVdXV5pt21IkEinqum61v6tl/vwF2HAW+Muc0IQAAAAASUVORK5C YII= "
+       height="33"
+       width="33" />
     <rect
        rx="0.64491922"
        y="-220.66888"
@@ -57162,7 +57108,7 @@ RqPRaDQajUaj0Wg0x4D/Cy8g+o+6IUS7AAAAAElFTkSuQmCC
        height="231.03918"
        width="171.95305"
        id="rect172418-8-6-1"
-       style="fill:#cccccc;fill-opacity:1;stroke:none" />
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
     <text
        sodipodi:linespacing="125%"
        id="text85315-3-6"
@@ -57206,17 +57152,17 @@ RqPRaDQajUaj0Wg0x4D/Cy8g+o+6IUS7AAAAAElFTkSuQmCC
          y="337.9137"
          x="2335.7019"
          id="tspan85335-8-3"
-         sodipodi:role="line">Box II</tspan></text>
+         sodipodi:role="line">Box III</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text85337-8-1"
        y="326.79675"
-       x="2517.1062"
+       x="2525.1062"
        style="font-size:37.73103333px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        xml:space="preserve"><tspan
          style="font-size:26.41172409px;font-weight:bold;fill:#666666"
          y="326.79675"
-         x="2517.1062"
+         x="2525.1062"
          sodipodi:role="line"
          id="tspan133222">Assembly Thallus</tspan></text>
     <text
@@ -57416,21 +57362,37 @@ RqPRaDQajUaj0Wg0x4D/Cy8g+o+6IUS7AAAAAElFTkSuQmCC
            width="2979.9211"
            height="4212.9922" /></flowRegion><flowPara
          id="flowPara133488"
-         style="text-anchor:start;text-align:justify">For the single species data sets almost all assemblers reconstruct the two genomes over their full length (Figure 3, column 0:10 &amp; 10:0), however with varying NG50 sizes. For the alga many assemblers were able to exceed the NG50 size of the original draft genome. For the fungus, repeats hindered such an extension with the present WGS library layout (Figure 4). </flowPara><flowPara
+         style="text-align:justify;text-anchor:start">For the single species data sets almost all assemblers reconstruct the two genomes over their full length (Figure 3, column 0:10 &amp; 10:0), however with varying NG50 sizes. For the alga many assemblers were able to exceed the NG50 size of the original draft genome. For the fungus, repeats hindered such an extension with the present WGS library layout (Figure 4). </flowPara><flowPara
          id="flowPara133519"
-         style="text-anchor:start;text-align:justify" /><flowPara
+         style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara133521"
-         style="text-anchor:start;text-align:justify">For the the mixed species data, completeness of the genome reconstructions depends heavily on assembler choice and coverage ratios. MIRA and SPAdes perform best across all data sets. In contrast, Omega, Velvet and MetaVelvet fail to assemble large parts of the low coverage genome once coverage ratios become extreme (Fig. 3, 1:9 - 3:7, 9:1).</flowPara><flowPara
+         style="text-align:justify;text-anchor:start">For the the mixed species data, completeness of the genome reconstructions depends heavily on assembler choice and coverage ratios. <flowSpan
+   style="font-style:italic"
+   id="flowSpan133797">MIRA</flowSpan> and <flowSpan
+   style="font-style:italic"
+   id="flowSpan133795">SPAdes</flowSpan> perform best across all data sets. In contrast, <flowSpan
+   style="font-style:italic"
+   id="flowSpan133791">Omega</flowSpan>, <flowSpan
+   style="font-style:italic"
+   id="flowSpan133793">Velvet</flowSpan> and <flowSpan
+   style="font-style:italic"
+   id="flowSpan133789">MetaVelvet</flowSpan> fail to assemble large parts of the low coverage genome once coverage ratios become extreme (Fig. 3, 1:9 - 3:7, 9:1).</flowPara><flowPara
          id="flowPara133523"
-         style="text-anchor:start;text-align:justify"> </flowPara><flowPara
+         style="text-align:justify;text-anchor:start"> </flowPara><flowPara
          id="flowPara133525"
-         style="text-anchor:start;text-align:justify">The k-mer coverage plots provide an explanation for the sensitivity to biased coverage ratios. Increasing the value of k reduces the frequency of all k-mers (Fig. 6). A high k precludes k-mers from the low coverage genome from the assembly, since their frequency overlaps with that of k-mers introduced by sequencing errors. This prevents the formation of typically short contigs, thus optimizing the N50 size.</flowPara><flowPara
+         style="text-align:justify;text-anchor:start">The k-mer coverage plots provide an explanation for the sensitivity to biased coverage ratios. Increasing the value of k reduces the frequency of all k-mers (Fig. 6). A high k precludes k-mers from the low coverage genome from the assembly, since their frequency overlaps with that of k-mers introduced by sequencing errors. This prevents the formation of typically short contigs, thus optimizing the N50 size.</flowPara><flowPara
          id="flowPara133531"
-         style="text-anchor:start;text-align:justify" /><flowPara
+         style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara133527"
-         style="text-anchor:start;text-align:justify">The WGS data of the L. pustulata thallus was assembled using MIRA and the contigs taxonomically assigned using MEGAN (Box II). Both, fungal and algal, assemblies are much more fragmented than expected from the simulations. This is a result of the bacterial diversity also present in the thallus: nearly 1/3 of the total assembly is of bacterial origin.</flowPara><flowPara
+         style="text-align:justify;text-anchor:start">The WGS data of the <flowSpan
+   style="font-style:italic"
+   id="flowSpan133787">L. pustulata</flowSpan> thallus was assembled using <flowSpan
+   style="font-style:italic"
+   id="flowSpan133785">MIRA</flowSpan> and the contigs taxonomically assigned using <flowSpan
+   style="font-style:italic"
+   id="flowSpan133783">MEGAN</flowSpan> [13]. Both, fungal and algal, assemblies are much more fragmented than expected given the simulations. This is a result of the bacterial diversity also present in the thallus: nearly 1/3 of the total assembly is of bacterial origin (Box III, right column).</flowPara><flowPara
          id="flowPara133529"
-         style="text-anchor:start;text-align:justify" /></flowRoot>    <image
+         style="text-align:justify;text-anchor:start" /></flowRoot>    <image
        y="52.325771"
        x="2805.5945"
        id="image133570"
@@ -57491,5 +57453,122 @@ V8tfGKzKfo6wNBYAAAAASUVORK5CYII=
          id="tspan172432-2-9-2"
          x="2770.8896"
          y="267.66595">3 kbp</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       id="flowRoot164480"
+       transform="translate(55.603838,-2.531101)"><flowRegion
+         id="flowRegion164482"><use
+           x="0"
+           y="0"
+           xlink:href="#rect164476"
+           id="use164484"
+           width="2979.9211"
+           height="4212.9922" /><use
+           x="0"
+           y="0"
+           xlink:href="#rect164478"
+           id="use164486"
+           width="2979.9211"
+           height="4212.9922" /></flowRegion><flowPara
+         id="flowPara164488"
+         style="font-size:18px">[1] Magoc T and Salzberg S. Bioinformatics (2011) 27 (21):2957-63</flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara17701">[2] http://genome.jgi.doe.gov/Clagr2/</flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara17703">[3] http://genome.jgi.doe.gov/Astpho2/</flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara17705">[4] Smit AFA, Hubley R, Green P. RepeatMasker Open-4.0 2013-2015</flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara17707">[5] Krumsiek J, Arnold R, Rattei T. Bioinformatics (2007) 23 (8): 1026-1028</flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara133703">[6] Huang W, Li L, Myers JR, Marth GT. Bioinformatics (2012) 28 (4):593-594</flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara17735">[7] Zerbino DR and Birney E. Genome Research (2008) 18:821-829. </flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara17737">[8] Namiki T, Hachiya T, Tanaka H, Sakakibara Y. Nucleic Acids Res, (2012) 40(20), e155 </flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara17739">[9] Bankevich A, Nurk S, Antipov D et al. Journal of Computational Biology (2012) 19(5):455-477</flowPara><flowPara
+         id="flowPara164492"
+         style="font-size:18px">[10] http://sourceforge.net/projects/mira-assembler/ </flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara17743">[11] Haider B, Ahn T, Bushnell B et al. Bioinformatics (2014) btu395</flowPara><flowPara
+         id="flowPara164494"
+         style="font-size:18px">[12] Simpson JT and Durbin R. Bioinformatics (2010) 26 (12): i367-i373 </flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara161671">[13] Stanke M, Steinkamp R, Waack S and Morgenstern B (2004) Nucleic Acids </flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara161675">Research, Vol. 32, W309-W312 </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="651.89185"
+       y="233.51125"
+       id="text17709"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan17711"
+         x="651.89185"
+         y="233.51125"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gill Sans;-inkscape-font-specification:Gill Sans">[7]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="961.99133"
+       y="233.42334"
+       id="text17709-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan17711-1"
+         x="961.99133"
+         y="233.42334"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gill Sans;-inkscape-font-specification:Gill Sans">[8]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1278.5972"
+       y="231.26682"
+       id="text17709-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan17711-6"
+         x="1278.5972"
+         y="231.26682"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gill Sans;-inkscape-font-specification:Gill Sans">[9]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="645.19385"
+       y="444.9519"
+       id="text17709-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan17711-64"
+         x="645.19385"
+         y="444.9519"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gill Sans;-inkscape-font-specification:Gill Sans">[10]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="952.14783"
+       y="446.79538"
+       id="text17709-20"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan17711-7"
+         x="952.14783"
+         y="446.79538"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gill Sans;-inkscape-font-specification:Gill Sans">[11]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1261.3799"
+       y="444.4823"
+       id="text17709-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan17711-19"
+         x="1261.3799"
+         y="444.4823"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gill Sans;-inkscape-font-specification:Gill Sans">[12]</tspan></text>
   </g>
 </svg>
