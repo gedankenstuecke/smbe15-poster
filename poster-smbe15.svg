@@ -31314,8 +31314,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.76715075"
-     inkscape:cx="2086.946"
-     inkscape:cy="799.82123"
+     inkscape:cx="2365.1566"
+     inkscape:cy="617.32776"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -31460,7 +31460,7 @@
          x="1499.9855"
          y="-2557.5127"
          style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
-         id="tspan2999-1">Motivation</tspan></text>
+         id="tspan2999-1">Summary</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
@@ -31538,9 +31538,9 @@
          style="font-size:32px;text-align:justify;text-anchor:start"
          id="flowPara40471">To address these questions, we performed an <flowSpan
    style="font-style:italic"
-   id="flowSpan40439">in silico</flowSpan> study, simulating twin sets of genome skimming experiments of a lichen. We show that the quality of genome reconstructions from such data depends on assembler choice, but more importantly also on the parameter optimisation strategy and the ratio of the taxa in the metagenome. Optimising for assembly metrics such as N50 can in extreme cases lead to the exclusing of complete genomes. The outcome of a real-world metagenome skimming of the lichen <flowSpan
+   id="flowSpan40439">in silico</flowSpan> study, simulating twin sets of genome skimming experiments of a lichen. We show that the quality of genome reconstructions from such data depends on assembler choice, but more importantly also on the parameter optimisation strategy and the ratio of the taxa in the metagenome. Optimising for assembly metrics such as N50 can in extreme cases lead to the exclusing of complete genomes. The outcome of a real-world metagenome skimming experiment of the lichen <flowSpan
    style="font-style:italic"
-   id="flowSpan40475">Lasallia pustulata </flowSpan>indicates an even larger species diversity, causing the underrepresentation of one symbiont in the shotgun library.</flowPara></flowRoot>    <text
+   id="flowSpan40475">Lasallia pustulata </flowSpan>not only shows a larger species diversity, but also hints to biased sequencing coverage for the algal genome.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        x="1062.4036"
@@ -47690,9 +47690,7 @@
          style="font-size:26px"
          id="flowPara19320"></flowPara><flowPara
          style="font-size:26px"
-         id="flowPara19323">The assembly of <flowSpan
-   style="font-style:italic"
-   id="flowSpan17950">L. pustulata</flowSpan> shows that lichen thalli are even more diverse in their composition, driving down absolute coverages for all organisms.</flowPara></flowRoot>    <path
+         id="flowPara19323">Despite a 10x coverage, the algal genome assembly is highly fragmented. This may be due to an uneven algal genome coverage, resulting from a biased library preparation.</flowPara></flowRoot>    <path
        sodipodi:type="arc"
        style="fill:#808080;fill-opacity:1;stroke:none"
        id="path105623"
@@ -47999,9 +47997,9 @@
    style="font-style:italic"
    id="flowSpan17970">MIRA</flowSpan>, contigs were taxonomically assigned using <flowSpan
    style="font-style:italic"
-   id="flowSpan133783">MEGAN</flowSpan> [13]. The fungal and algal assemblies are much more fragmented than expected given the <flowSpan
+   id="flowSpan133783">MEGAN</flowSpan> [13]. The algal assembly is much more fragmented than expected given the <flowSpan
    style="font-style:italic"
-   id="flowSpan24595">in silico</flowSpan> study. This is a result of the microbial diversity: nearly 1/3 of the assembly is of bacterial origin, decreasing absolute coverages (Box III).</flowPara></flowRoot>    <text
+   id="flowSpan24595">in silico</flowSpan> study. (Box III). We think that this is a result of a biased library preparation, yielding a highly uneven read coverage for the algal genome. </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:30.1848259px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        x="2765.9053"
