@@ -31313,9 +31313,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5424575"
-     inkscape:cx="1752.6985"
-     inkscape:cy="1055.6874"
+     inkscape:zoom="0.76715075"
+     inkscape:cx="1916.5036"
+     inkscape:cy="769.60615"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -31528,7 +31528,7 @@
            width="2979.9211"
            height="4212.9922" /></flowRegion><flowPara
          style="font-size:32px;text-align:justify;text-anchor:start"
-         id="flowPara40453">Metagenomic sequencing with only a single library layout is used to quickly and cheaply assess the taxonomic and functional complexity of large and diverse microbial communities. We investigate to what extent such metagenome skimming approaches are applicable for the in-depth characterizations of genomes represented in obligate symbiotic communities of eukaryotes, e.g. lichens. It is still unclear how a eukaryotic species mixture, with larger and more repeat-rich genomes, influences different <flowSpan
+         id="flowPara40453">Metagenomic sequencing with only a single library layout is used to quickly and cheaply assess the taxonomic and functional complexity of large and diverse microbial communities. Here we investigate to what extent such metagenome skimming approaches are applicable for the in-depth characterizations of genomes represented in obligate symbiotic communities of eukaryotes, e.g. lichens. It is still unclear how a eukaryotic species mixture, with larger and more repeat-rich genomes, influences different <flowSpan
    style="font-style:italic"
    id="flowSpan13728">de novo</flowSpan> assembly paradigms, such as <flowSpan
    style="font-style:italic"
@@ -31538,9 +31538,11 @@
          style="font-size:32px;text-align:justify;text-anchor:start"
          id="flowPara40471">To address these questions, we performed an <flowSpan
    style="font-style:italic"
-   id="flowSpan40439">in silico</flowSpan> study, simulating twin sets of genome skimming experiments of a lichen. We show that the quality of genome reconstructions from such data depends on assembler choice, but more importantly also on the parameter optimisation strategy and the ratio of the taxa in the metagenome. Optimising for assembly metrics such as N50 can in extreme cases lead to the exclusing of complete genomes. The outcome of a real-world metagenome skimming experiment of the lichen <flowSpan
+   id="flowSpan40439">in silico</flowSpan> study, simulating twin sets of genome skimming experiments of a lichen. We show that the quality of genome reconstructions from such data depends on assembler choice, but more importantly also on the parameter optimisation strategy and the ratio of the taxa in the metagenome. Optimising for assembly metrics such as N50 can in extreme cases lead to the exclusion of complete genomes. Transfering the results of the simulations to a real-world metagenome skimming experiment of the lichen <flowSpan
    style="font-style:italic"
-   id="flowSpan40475">Lasallia pustulata </flowSpan>not only shows a larger species diversity, but also hints to biased sequencing coverage for the algal genome.</flowPara></flowRoot>    <text
+   id="flowSpan40475">Lasallia pustulata<flowSpan
+   style="font-style:normal"
+   id="flowSpan20094">, we </flowSpan></flowSpan>not only shows a larger species diversity, but also hints to biased sequencing coverage for the algal genome. </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        x="1062.4036"
@@ -38653,7 +38655,7 @@
              y="-378.03372"
              style="font-size:20px;font-weight:bold">Table 1: <tspan
    style="font-weight:normal"
-   id="tspan16323">Absolute coverages for each organism per data set</tspan></tspan></text>
+   id="tspan16323">Absolute coverages for each organism per twin set</tspan></tspan></text>
       </g>
     </g>
     <rect
@@ -38677,7 +38679,7 @@
            id="use27231"
            width="2979.9211"
            height="4212.9922" /></flowRegion><flowPara
-         id="flowPara27266">For Omega, sga, Velvet &amp; MetaVelvet we explored the parameter space (overlap size and k-mer size respectively) and used the maximization of the N50 size as the acceptance objective. </flowPara></flowRoot>    <g
+         id="flowPara27266">For Omega, sga, Velvet &amp; MetaVelvet we explored the parameter space (overlap size and k-mer size respectively) and used the maximization of the N50 size as the objective. </flowPara></flowRoot>    <g
        id="g283719"
        transform="matrix(0.95265827,0,0,0.95265827,108.32054,-100.69533)"
        style="stroke-linecap:butt;stroke-linejoin:round">
@@ -39913,9 +39915,9 @@
         <tspan
            id="tspan3924"
            sodipodi:role="line"
-           y="-1406.1805"
-           x="2646.7493 2658.103 2671.3928 2676.6992 2688.053 2701.343"
-           style="font-size:23.90266037px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">velvet</tspan>
+           style="font-size:23.90266037px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+           x="2646.7493"
+           y="-1406.1805">Velvet</tspan>
       </text>
       <text
          y="-1364.8767"
@@ -39925,9 +39927,9 @@
         <tspan
            id="tspan3928"
            sodipodi:role="line"
-           y="-1364.8767"
-           x="2646.7493 2666.6602 2679.95 2686.595 2699.4067 2710.7605 2724.0505 2729.3569 2740.7107 2754.0005"
-           style="font-size:23.90266037px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">metavelvet</tspan>
+           style="font-size:23.90266037px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+           x="2646.7493"
+           y="-1364.8767">MetaVelvet</tspan>
       </text>
       <g
          transform="matrix(2.390266,0,0,-2.390266,1566.2243,-918.06488)"
@@ -40356,7 +40358,7 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        id="flowRoot266059"
-       transform="translate(0,-72)"><flowRegion
+       transform="translate(0,-86)"><flowRegion
          id="flowRegion266061"><use
            x="0"
            y="0"
@@ -40367,7 +40369,7 @@
          id="flowPara266065"
          style="font-size:20px;text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold;text-align:justify;text-anchor:start"
-   id="flowSpan266067">Figure 3: </flowSpan>Assembly results for the 11 data sets and the diffferent assemblers. Bars are centered at total assembly length, red lines are reference lengths. Height of the bars shows the NG50 size. For the assemblies with the asterisk the total assembly length was less than 50% of the reference length. A default height was used in those instances.</flowPara></flowRoot>    <rect
+   id="flowSpan266067">Figure 3: </flowSpan>Assembly results for the 11 data sets and the different assemblers. Bars are centered at total assembly length, red lines are reference lengths. Height of the bars shows the NG50 size. For the assemblies with the asterisk the total assembly length was below 50% of the reference length. A default height was used in those instances.</flowPara></flowRoot>    <rect
        style="opacity:0.13168724;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
        id="rect266106"
        width="722.63727"
@@ -47634,7 +47636,7 @@
          x="2223.0659"
          y="440.02094"
          style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
-         id="tspan105545">Summary</tspan></text>
+         id="tspan105545">Key Points</tspan></text>
     <rect
        style="fill:none;stroke:none"
        id="rect105579"
@@ -47680,17 +47682,17 @@
          id="flowPara306061"
          style="font-size:26px">Mixing data from different species inflates the assembler performance differences, with <flowSpan
    style="font-size:26px;font-style:italic"
-   id="flowSpan17685">MIRA &amp; SPAdes</flowSpan> yielding the most contiguous sequences </flowPara><flowPara
+   id="flowSpan17685">MIRA &amp; SPAdes</flowSpan> yielding the most contiguous sequences. </flowPara><flowPara
          style="font-size:26px"
          id="flowPara24575" /><flowPara
          style="font-size:26px"
          id="flowPara24577" /><flowPara
          style="font-size:26px"
-         id="flowPara105613">For metagenomes optimising the assembly parameters using the N50 size can lead to the preclusion of entire genomes</flowPara><flowPara
+         id="flowPara105613">For metagenomes optimising the assembly parameters using the N50 size as quality measurecan lead to the preclusion of entire genomes.</flowPara><flowPara
          style="font-size:26px"
          id="flowPara19320"></flowPara><flowPara
          style="font-size:26px"
-         id="flowPara19323">Despite a 10x coverage, the algal genome assembly is highly fragmented. This may be due to an uneven algal genome coverage, resulting from a biased library preparation.</flowPara></flowRoot>    <path
+         id="flowPara19323">Despite a 10x coverage, the algal genome assembly is highly fragmented, representing &lt;1/4 of the estimated genome size. This may be due to an uneven algal genome coverage, resulting from a biased library preparation.</flowPara></flowRoot>    <path
        sodipodi:type="arc"
        style="fill:#808080;fill-opacity:1;stroke:none"
        id="path105623"
@@ -47718,7 +47720,7 @@
        width="33" />
     <image
        style="stroke-linecap:butt;stroke-linejoin:round"
-       y="490.58844"
+       y="508.58844"
        x="2210.0083"
        id="image105668"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAABHNCSVQICAgIfAhkiAAAAp5JREFU WIXF2M9L+nAcx/HnPpG2QYOJFgaRI6t56FinCLJT0CEiEP9Byz+hICgqb4EdIqhofEEtirAwV1pr 34PM79e0NEv3Ou33+8G2D3zeH8lxHIcOUqlUOD8/xzRNbm9veXx85O3tDYCBgQFUVSUYDKLrOjMz MyiK0sljAaakdohyucze3h7ZbLZetF2EEBiGwdLSEsFgsHvE+/s7mUyGw8NDKpVKR8VbYebm5ojH 4/h8vu8hnp6eSKfT5HK5rop/TCAQIJlMfvZWmhF3d3ekUikeHh5+BeBGlmUSiQQTExNNCPH/nmVZ PQEAPD8/k0qlKBQKTefqCNu22dzc7AnATbVaZWtrC8uyWiMymcyv/QNfpVQqsbOz04ywLIujo6Oe A9ycnJyQz+cbEQcHB10Pw26zv7//D1GtVjk+Pu4rAODi4oJisVhDXF5e8vr62ncEwNnZWQ1hmqYn AAC3tri+vvYM4dYW7nfxIuVyGdM0FdHvUfExhUJBFR1OJ3oW27aF8Pv9niLGxsZKQtM0zwCyLBON RktiZGTEM8To6CgAIhKJeIZwawvDMBgcHPQEMTs7W0P4/X5isVjfAePj4wQCgRoCYGFhAUmS+opY XFysbwuAUCjE/Px83wCGYRCNRhsRAPF4nFAo1HOALMusrKw0HKsjfD4fyWQSWZZ7BhBCsL6+jqqq rREAmqaRSCS+alR+BFhbW2v4DG5aNj83Nzek0+lfm3krisLGxga6rrc6/Xkb+PLywvb2Ntls9keA 6elpVldXGR4e/uyS9g1xPp9nd3eX787AwuEwy8vLTE5Otru0PcLN/f09p6en9aWBjw3M0NBQfWkg FosRDoc79U5JjuM0/ykdJJfLyVdXV5pt21IkEinqum61v6tl/vwF2HAW+Muc0IQAAAAASUVORK5C YII= "
@@ -47726,7 +47728,7 @@
        width="33" />
     <image
        style="stroke-linecap:butt;stroke-linejoin:round"
-       y="605.67316"
+       y="651.67316"
        x="2210.3042"
        id="image105679"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAABHNCSVQICAgIfAhkiAAAAp5JREFU WIXF2M9L+nAcx/HnPpG2QYOJFgaRI6t56FinCLJT0CEiEP9Byz+hICgqb4EdIqhofEEtirAwV1pr 34PM79e0NEv3Ou33+8G2D3zeH8lxHIcOUqlUOD8/xzRNbm9veXx85O3tDYCBgQFUVSUYDKLrOjMz MyiK0sljAaakdohyucze3h7ZbLZetF2EEBiGwdLSEsFgsHvE+/s7mUyGw8NDKpVKR8VbYebm5ojH 4/h8vu8hnp6eSKfT5HK5rop/TCAQIJlMfvZWmhF3d3ekUikeHh5+BeBGlmUSiQQTExNNCPH/nmVZ PQEAPD8/k0qlKBQKTefqCNu22dzc7AnATbVaZWtrC8uyWiMymcyv/QNfpVQqsbOz04ywLIujo6Oe A9ycnJyQz+cbEQcHB10Pw26zv7//D1GtVjk+Pu4rAODi4oJisVhDXF5e8vr62ncEwNnZWQ1hmqYn AAC3tri+vvYM4dYW7nfxIuVyGdM0FdHvUfExhUJBFR1OJ3oW27aF8Pv9niLGxsZKQtM0zwCyLBON RktiZGTEM8To6CgAIhKJeIZwawvDMBgcHPQEMTs7W0P4/X5isVjfAePj4wQCgRoCYGFhAUmS+opY XFysbwuAUCjE/Px83wCGYRCNRhsRAPF4nFAo1HOALMusrKw0HKsjfD4fyWQSWZZ7BhBCsL6+jqqq rREAmqaRSCS+alR+BFhbW2v4DG5aNj83Nzek0+lfm3krisLGxga6rrc6/Xkb+PLywvb2Ntls9keA 6elpVldXGR4e/uyS9g1xPp9nd3eX787AwuEwy8vLTE5Otru0PcLN/f09p6en9aWBjw3M0NBQfWkg FosRDoc79U5JjuM0/ykdJJfLyVdXV5pt21IkEinqum61v6tl/vwF2HAW+Muc0IQAAAAASUVORK5C YII= "
@@ -47952,7 +47954,7 @@
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        id="flowRoot133468"
-       transform="translate(-2.6070495,-177.27937)"><flowRegion
+       transform="translate(-2.6070495,-197.27937)"><flowRegion
          id="flowRegion133470"><use
            x="0"
            y="0"
@@ -47963,43 +47965,39 @@
          id="flowPara133488"
          style="text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold"
-   id="flowSpan24583">Single Species Data </flowSpan>Almost all assemblers reconstruct the two genomes over their full length (Figure 3, column 0:10 &amp; 10:0), however with varying contiguity. For the alga many assemblers exceeded the NG50 size of the original draft assembly. For the fungus, it appears that the repetitive nature of the genome (c.f. Fig. 2) hinders the generation of longer contigs with the present WGS library layout (Figure 4). </flowPara><flowPara
+   id="flowSpan24583">Single species data </flowSpan>Almost all assemblers reconstruct the two genomes over their full length from the simulated sequences (Figure 3, column 0:10 &amp; 10:0), however with varying contiguity. For the alga most assemblers exceeded the NG50 size of the original draft assembly. For the fungus, it appears that the repetitive nature of the genome (c.f. Fig. 2) hinders the generation of longer contigs with the present WGS library layout (Figure 4). </flowPara><flowPara
          id="flowPara133519"
          style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara133521"
          style="text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold"
-   id="flowSpan24587">Mixed Species Data </flowSpan>Completeness of the genome reconstructions depends heavily on assembler choice and coverage ratios. <flowSpan
+   id="flowSpan24587">Mixed species data </flowSpan>Completeness of the genome reconstructions depends heavily on assembler choice and coverage ratios. <flowSpan
    style="font-style:italic"
    id="flowSpan133797">MIRA</flowSpan> and <flowSpan
    style="font-style:italic"
    id="flowSpan133795">SPAdes</flowSpan> perform best across all data sets. In contrast <flowSpan
    style="font-style:italic"
-   id="flowSpan19311">Velvet</flowSpan>, <flowSpan
-   style="font-style:italic"
-   id="flowSpan133791">Omega </flowSpan>and <flowSpan
-   style="font-style:italic"
-   id="flowSpan133789">MetaVelvet</flowSpan> (the latter two being metagenome assemblers) fail to assemble large parts of the low coverage genome once coverage ratios become extreme (Fig. 3, 1:9 - 3:7, 9:1).</flowPara><flowPara
+   id="flowSpan19311">Velvet </flowSpan>and the metagenome assemblers fail to assemble large parts of the low coverage genome once coverage ratios become extreme (Fig. 3, 1:9 - 3:7, 9:1).</flowPara><flowPara
          id="flowPara133523"
-         style="text-align:justify;text-anchor:start" /><flowPara
-         id="flowPara133525"
-         style="text-align:justify;text-anchor:start"><flowSpan
-   style="font-weight:bold"
-   id="flowSpan19313">Parameter optimization for N50 impairs metagenome assembly</flowSpan> Increasing the value of k reduces the frequency of all k-mers (Fig. 6), causing k-mers from the low coverage genome to overlap with those introduced by the sequencing error. This prevents the formation of typically short contigs, thus increasing the N50 size by not assembling the low coverage genome.</flowPara><flowPara
-         id="flowPara133531"
          style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara133529"
          style="text-align:justify;text-anchor:start"><flowSpan
-   style="font-style:italic;font-weight:bold"
-   id="flowSpan133787">L. pustulata</flowSpan><flowSpan
    style="font-weight:bold"
-   id="flowSpan24591"> Assembly </flowSpan>Done with <flowSpan
+   id="flowSpan19313">Parameter optimization for N50 impairs metagenome assembly </flowSpan>Contigs from the low coverage genomes tend to be short, decreasing the overall N50 size. Increasing the word length k to larger values shifts the word frequencies of the low coverage genomes to overlap with those introduced by sequencing errors (Fig. 6). Thus they are ignored turing assembly, increasing the N50 size.</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara20121"><flowSpan
+           style="font-style:italic;font-weight:bold"
+           id="flowSpan20123"></flowSpan></flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara20128"><flowSpan
+   style="font-style:italic;font-weight:bold"
+   id="flowSpan20130">L. pustulata </flowSpan>The assembly was done with <flowSpan
    style="font-style:italic"
-   id="flowSpan17970">MIRA</flowSpan>, the contigs were taxonomically assigned using <flowSpan
+   id="flowSpan17970">MIRA </flowSpan>and the contigs were taxonomically assigned using <flowSpan
    style="font-style:italic"
    id="flowSpan133783">MEGAN</flowSpan> [13]. The algal assembly is much more fragmented than expected given the <flowSpan
    style="font-style:italic"
-   id="flowSpan24595">in silico</flowSpan> study. (Box III). We think that this is a result of a biased library preparation, yielding a highly uneven read coverage for the algal genome. </flowPara></flowRoot>    <text
+   id="flowSpan24595">in silico</flowSpan> study. (Box III). It appears that this is a result of a biased library preparation, yielding a highly uneven read coverage for the algal genome. </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:30.1848259px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        x="2765.9053"
@@ -49470,7 +49468,7 @@
          style="font-size:20px;font-weight:normal"
          id="tspan39771"><tspan
    id="tspan39777"
-   style="font-size:20px;font-weight:bold">Figure 1: </tspan>Workflow for generating twin data sets, resembling a real sequencing data set with respect to insert size distribution, read number and read length.</tspan></text>
+   style="font-size:20px;font-weight:bold">Figure 1: </tspan>Workflow for generating twin sets, resembling a real sequencing data set with respect to insert size distribution, read number and read length.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
@@ -49543,7 +49541,7 @@
          id="flowPara40406"
          style="text-align:justify;text-anchor:start">Using the pseudo-chromosomes as templates, we simulated reads using ART [6], parameterized with the values estimated from the <flowSpan
    style="font-style:italic"
-   id="flowSpan19305">L. pustulata</flowSpan> data . The reads were used to compile 11 twin data sets  by mixing fungal and algal reads in varying ratios (Table 1).</flowPara></flowRoot>    <text
+   id="flowSpan19305">L. pustulata</flowSpan> data . The reads were used to compile 11 twin sets  by mixing fungal and algal reads at varying ratios (Table 1).</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        x="2512.6404"
