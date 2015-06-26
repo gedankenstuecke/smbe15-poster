@@ -31314,8 +31314,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.76715075"
-     inkscape:cx="2182.4642"
-     inkscape:cy="3424.4301"
+     inkscape:cx="2086.946"
+     inkscape:cy="799.82123"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37436,15 +37436,15 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
-       x="611.42419"
+       x="733.42419"
        y="142.97038"
        id="text78658"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="611.42419"
+         x="733.42419"
          y="142.97038"
          style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
-         id="tspan78660">2. Assembler Selection &amp; Optimisation</tspan></text>
+         id="tspan78660">2. Assembler Selection &amp; Parameter Selection</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
@@ -38677,8 +38677,10 @@
            id="use27231"
            width="2979.9211"
            height="4212.9922" /></flowRegion><flowPara
-         id="flowPara27266">For Omega, sga, Velvet &amp; MetaVelvet we explored the parameter space (overlap size and k-mer size respectively) and use the maximization of the N50 size as the acceptance objective. </flowPara></flowRoot>    <g
-       id="g283719">
+         id="flowPara27266">For Omega, sga, Velvet &amp; MetaVelvet we explored the parameter space (overlap size and k-mer size respectively) and used the maximization of the N50 size as the acceptance objective. </flowPara></flowRoot>    <g
+       id="g283719"
+       transform="matrix(0.95265827,0,0,0.95265827,108.32054,-100.69533)"
+       style="stroke-linecap:butt;stroke-linejoin:round">
       <rect
          rx="0.26926255"
          y="-1773.1102"
@@ -40354,7 +40356,7 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        id="flowRoot266059"
-       transform="translate(0,-28)"><flowRegion
+       transform="translate(0,-72)"><flowRegion
          id="flowRegion266061"><use
            x="0"
            y="0"
@@ -40366,12 +40368,12 @@
          style="font-size:20px;text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold;text-align:justify;text-anchor:start"
    id="flowSpan266067">Figure 3: </flowSpan>Assembly results for the 11 data sets and the diffferent assemblers. Bars are centered at total assembly length, red lines are reference lengths. Height of the bars shows the NG50 size. For the assemblies with the asterisk the total assembly length was less than 50% of the reference length. A default height was used in those instances.</flowPara></flowRoot>    <rect
-       style="opacity:0.13168724000000001;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
+       style="opacity:0.13168724;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
        id="rect266106"
        width="722.63727"
        height="1506.4502"
        x="1519.0131"
-       y="-758.59314"
+       y="-792.59314"
        rx="2.4276242" />
     <flowRoot
        xml:space="preserve"
@@ -47684,11 +47686,11 @@
          style="font-size:26px"
          id="flowPara24577" /><flowPara
          style="font-size:26px"
-         id="flowPara24579">Optimising the N50 can lead to the preclusion of  sequences representing the low-coverage genome. </flowPara><flowPara
-         id="flowPara306063"
-         style="font-size:26px" /><flowPara
+         id="flowPara105613">For metagenomes optimising the assembly parameters using the N50 size can lead to the preclusion of entire genomes</flowPara><flowPara
          style="font-size:26px"
-         id="flowPara105613">The assembly of <flowSpan
+         id="flowPara19320"></flowPara><flowPara
+         style="font-size:26px"
+         id="flowPara19323">The assembly of <flowSpan
    style="font-style:italic"
    id="flowSpan17950">L. pustulata</flowSpan> shows that lichen thalli are even more diverse in their composition, driving down absolute coverages for all organisms.</flowPara></flowRoot>    <path
        sodipodi:type="arc"
@@ -47963,29 +47965,29 @@
          id="flowPara133488"
          style="text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold"
-   id="flowSpan24583">Single Species Data Sets </flowSpan>Almost all assemblers reconstruct the two genomes over their full length (Figure 3, column 0:10 &amp; 10:0), however with varying NG50 sizes. For the alga many assemblers exceeded the NG50 size of the original draft assembly. For the fungus, repeats hindered such an extension with the present WGS library layout (Figure 4). </flowPara><flowPara
+   id="flowSpan24583">Single Species Data </flowSpan>Almost all assemblers reconstruct the two genomes over their full length (Figure 3, column 0:10 &amp; 10:0), however with varying contiguity. For the alga many assemblers exceeded the NG50 size of the original draft assembly. For the fungus, it appears that the repetitive nature of the genome (c.f. Fig. 2) hinders the generation of longer contigs with the present WGS library layout (Figure 4). </flowPara><flowPara
          id="flowPara133519"
          style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara133521"
          style="text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold"
-   id="flowSpan24587">Mixed Species Data Sets </flowSpan>Completeness of the genome reconstructions depends heavily on assembler choice and coverage ratios. <flowSpan
+   id="flowSpan24587">Mixed Species Data </flowSpan>Completeness of the genome reconstructions depends heavily on assembler choice and coverage ratios. <flowSpan
    style="font-style:italic"
    id="flowSpan133797">MIRA</flowSpan> and <flowSpan
    style="font-style:italic"
-   id="flowSpan133795">SPAdes</flowSpan> perform best across all data sets. In contrast, <flowSpan
+   id="flowSpan133795">SPAdes</flowSpan> perform best across all data sets. In contrast <flowSpan
    style="font-style:italic"
-   id="flowSpan133791">Omega</flowSpan>, <flowSpan
+   id="flowSpan19311">Velvet</flowSpan>, <flowSpan
    style="font-style:italic"
-   id="flowSpan133793">Velvet</flowSpan> and <flowSpan
+   id="flowSpan133791">Omega </flowSpan>and <flowSpan
    style="font-style:italic"
-   id="flowSpan133789">MetaVelvet</flowSpan> fail to assemble large parts of the low coverage genome once coverage ratios become extreme (Fig. 3, 1:9 - 3:7, 9:1).</flowPara><flowPara
+   id="flowSpan133789">MetaVelvet</flowSpan> (the latter being metagenome assembers) fail to assemble large parts of the low coverage genome once coverage ratios become extreme (Fig. 3, 1:9 - 3:7, 9:1).</flowPara><flowPara
          id="flowPara133523"
          style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara133525"
          style="text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold"
-   id="flowSpan24589">Sensitivity to Biased Coverage Ratios</flowSpan> Increasing the value of k reduces the frequency of all k-mers (Fig. 6), causing k-mers from the low coverage genome to overlap with those introduced by the sequencing error. This prevents the formation of typically short contigs, thus increasing the N50 size by not assembling the low coverage genome.</flowPara><flowPara
+   id="flowSpan19313">Parameter optimization for N50 impairs metagenome assembly</flowSpan> Increasing the value of k reduces the frequency of all k-mers (Fig. 6), causing k-mers from the low coverage genome to overlap with those introduced by the sequencing error. This prevents the formation of typically short contigs, thus increasing the N50 size by not assembling the low coverage genome.</flowPara><flowPara
          id="flowPara133531"
          style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara133529"
@@ -47997,9 +47999,9 @@
    style="font-style:italic"
    id="flowSpan17970">MIRA</flowSpan>, contigs were taxonomically assigned using <flowSpan
    style="font-style:italic"
-   id="flowSpan133783">MEGAN</flowSpan> [13]. The fungal and algal genome are much more fragmented than expected given the <flowSpan
+   id="flowSpan133783">MEGAN</flowSpan> [13]. The fungal and algal assemblies are much more fragmented than expected given the <flowSpan
    style="font-style:italic"
-   id="flowSpan24595">in silico</flowSpan> study. This is a result of the larger microbial diversity: nearly 1/3 of the assembly is of bacterial origin, which decreases the absolute coverage, especially for the alga (Box III, right column).</flowPara></flowRoot>    <text
+   id="flowSpan24595">in silico</flowSpan> study. This is a result of the microbial diversity: nearly 1/3 of the assembly is of bacterial origin, decreasing absolute coverages (Box III).</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:30.1848259px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        x="2765.9053"
@@ -49388,7 +49390,9 @@
          x="746.04254"
          y="-1094.4246"
          style="font-size:24px;text-align:center;text-anchor:middle"
-         id="tspan38099-2">Merge reads simulated from either reference genomes into metagenomic twin data sets with </tspan><tspan
+         id="tspan38099-2">Merge reads simulated from either reference genomes into <tspan
+   style="font-style:italic"
+   id="tspan19303">L. pustulata</tspan> twin data sets with </tspan><tspan
          sodipodi:role="line"
          x="742.71442"
          y="-1064.4246"
@@ -49525,7 +49529,7 @@
          style="text-align:justify;text-anchor:start"
          id="flowPara161835">DNA from a thallus of<flowSpan
    style="font-style:italic;text-align:justify;text-anchor:start"
-   id="flowSpan40145"> Lasallia pustulata </flowSpan>was sequenced using Illumina MiSeq technology, yielding 15 million read pairs with a length of 250 bp. To estimate the insert size distribution, we overlapped read pairs using <flowSpan
+   id="flowSpan40145"> Lasallia pustulata </flowSpan>was sequenced using Illumina MiSeq technology, yielding 15 million read pairs with a read length of 250 bp. To estimate the insert size distribution, we joined overlapping read pairs using <flowSpan
    style="font-style:italic;text-align:justify;text-anchor:start"
    id="flowSpan40394">FLASH</flowSpan> [1] and fitted a censored Weibull distribution to the observed insert size distribution (Figure 1, A).</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
@@ -49539,7 +49543,9 @@
          style="text-align:justify;text-anchor:start"
          id="flowPara162688" /><flowPara
          id="flowPara40406"
-         style="text-align:justify;text-anchor:start">Using the pseudo-chromosomes as templates, we simulated reads using ART [6], parameterized using the values from Fig. 1, A. The reads were mixed into 11 twin data sets  by mixing fungal and algal reads in varying ratios (Table 1).</flowPara></flowRoot>    <text
+         style="text-align:justify;text-anchor:start">Using the pseudo-chromosomes as templates, we simulated reads using ART [6], parameterized with the values estimated from the <flowSpan
+   style="font-style:italic"
+   id="flowSpan19305">L. pustulata</flowSpan> data . The reads were used to compile 11 twin data sets  by mixing fungal and algal reads in varying ratios (Table 1).</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        x="2512.6404"
@@ -49668,5 +49674,23 @@
          x="2720.1013"
          y="288.97183"
          style="fill:#ffffff">Bacteria</tspan></text>
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect19307"
+       width="124.20329"
+       height="33.412785"
+       x="83.186241"
+       y="2818.4128"
+       transform="translate(0,-3160.6299)"
+       rx="0.16451879" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect19309"
+       width="118.67289"
+       height="34.795353"
+       x="472.38724"
+       y="2825.3259"
+       transform="translate(0,-3160.6299)"
+       rx="0.16451879" />
   </g>
 </svg>
