@@ -31313,9 +31313,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76715075"
-     inkscape:cx="2365.1566"
-     inkscape:cy="617.32776"
+     inkscape:zoom="0.5424575"
+     inkscape:cx="1752.6985"
+     inkscape:cy="1055.6874"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47979,7 +47979,7 @@
    style="font-style:italic"
    id="flowSpan133791">Omega </flowSpan>and <flowSpan
    style="font-style:italic"
-   id="flowSpan133789">MetaVelvet</flowSpan> (the latter being metagenome assembers) fail to assemble large parts of the low coverage genome once coverage ratios become extreme (Fig. 3, 1:9 - 3:7, 9:1).</flowPara><flowPara
+   id="flowSpan133789">MetaVelvet</flowSpan> (the latter two being metagenome assemblers) fail to assemble large parts of the low coverage genome once coverage ratios become extreme (Fig. 3, 1:9 - 3:7, 9:1).</flowPara><flowPara
          id="flowPara133523"
          style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara133525"
@@ -47995,7 +47995,7 @@
    style="font-weight:bold"
    id="flowSpan24591"> Assembly </flowSpan>Done with <flowSpan
    style="font-style:italic"
-   id="flowSpan17970">MIRA</flowSpan>, contigs were taxonomically assigned using <flowSpan
+   id="flowSpan17970">MIRA</flowSpan>, the contigs were taxonomically assigned using <flowSpan
    style="font-style:italic"
    id="flowSpan133783">MEGAN</flowSpan> [13]. The algal assembly is much more fragmented than expected given the <flowSpan
    style="font-style:italic"
