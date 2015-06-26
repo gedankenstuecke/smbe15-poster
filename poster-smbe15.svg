@@ -31313,9 +31313,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76715075"
-     inkscape:cx="1916.5036"
-     inkscape:cy="769.60615"
+     inkscape:zoom="0.5424575"
+     inkscape:cx="2138.2774"
+     inkscape:cy="870.22745"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -31540,9 +31540,7 @@
    style="font-style:italic"
    id="flowSpan40439">in silico</flowSpan> study, simulating twin sets of genome skimming experiments of a lichen. We show that the quality of genome reconstructions from such data depends on assembler choice, but more importantly also on the parameter optimisation strategy and the ratio of the taxa in the metagenome. Optimising for assembly metrics such as N50 can in extreme cases lead to the exclusion of complete genomes. Transfering the results of the simulations to a real-world metagenome skimming experiment of the lichen <flowSpan
    style="font-style:italic"
-   id="flowSpan40475">Lasallia pustulata<flowSpan
-   style="font-style:normal"
-   id="flowSpan20094">, we </flowSpan></flowSpan>not only shows a larger species diversity, but also hints to biased sequencing coverage for the algal genome. </flowPara></flowRoot>    <text
+   id="flowSpan40475">Lasallia pustulata</flowSpan>, we not only see a larger species diversity, but also hints to biased sequencing coverage for the algal genome. </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        x="1062.4036"
@@ -47983,7 +47981,7 @@
          id="flowPara133529"
          style="text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold"
-   id="flowSpan19313">Parameter optimization for N50 impairs metagenome assembly </flowSpan>Contigs from the low coverage genomes tend to be short, decreasing the overall N50 size. Increasing the word length k to larger values shifts the word frequencies of the low coverage genomes to overlap with those introduced by sequencing errors (Fig. 6). Thus they are ignored turing assembly, increasing the N50 size.</flowPara><flowPara
+   id="flowSpan19313">Parameter optimization for N50 impairs metagenome assembly </flowSpan>Contigs from the low coverage genomes tend to be short, decreasing the overall N50 size. Increasing the word length k to larger values shifts the word frequencies of the low coverage genomes to overlap with those introduced by sequencing errors (Fig. 6). Thus they are ignored during assembly, increasing the N50 size.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara20121"><flowSpan
            style="font-style:italic;font-weight:bold"
