@@ -31313,9 +31313,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5424575"
-     inkscape:cx="2138.2774"
-     inkscape:cy="870.22745"
+     inkscape:zoom="1.084915"
+     inkscape:cx="339.07494"
+     inkscape:cy="268.10912"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -31528,9 +31528,9 @@
            width="2979.9211"
            height="4212.9922" /></flowRegion><flowPara
          style="font-size:32px;text-align:justify;text-anchor:start"
-         id="flowPara40453">Metagenomic sequencing with only a single library layout is used to quickly and cheaply assess the taxonomic and functional complexity of large and diverse microbial communities. Here we investigate to what extent such metagenome skimming approaches are applicable for the in-depth characterizations of genomes represented in obligate symbiotic communities of eukaryotes, e.g. lichens. It is still unclear how a eukaryotic species mixture, with larger and more repeat-rich genomes, influences different <flowSpan
+         id="flowPara40453">Metagenomic sequencing with only a single library layout is used to quickly and cheaply assess the taxonomic and functional complexity of large and diverse microbial communities. On the example of lichens we investigate to what extent such metagenome skimming approaches are applicable for the in-depth characterizations of genomes represented in obligate symbiotic communities of eukaryotes. Specifically we ask how a eukaryotic species mixture with larger and more repeat-rich genomes influences different <flowSpan
    style="font-style:italic"
-   id="flowSpan13728">de novo</flowSpan> assembly paradigms, such as <flowSpan
+   id="flowSpan13728">de novo</flowSpan> assembly paradigms, realised in <flowSpan
    style="font-style:italic"
    id="flowSpan40445">de Brujin Graph</flowSpan> based methods or <flowSpan
    style="font-style:italic"
@@ -31538,7 +31538,7 @@
          style="font-size:32px;text-align:justify;text-anchor:start"
          id="flowPara40471">To address these questions, we performed an <flowSpan
    style="font-style:italic"
-   id="flowSpan40439">in silico</flowSpan> study, simulating twin sets of genome skimming experiments of a lichen. We show that the quality of genome reconstructions from such data depends on assembler choice, but more importantly also on the parameter optimisation strategy and the ratio of the taxa in the metagenome. Optimising for assembly metrics such as N50 can in extreme cases lead to the exclusion of complete genomes. Transfering the results of the simulations to a real-world metagenome skimming experiment of the lichen <flowSpan
+   id="flowSpan40439">in silico</flowSpan> study, simulating twin sets for a lichen genome skimming experiment. We show that the quality of genome reconstructions from such data depends on assembler choice, but more importantly also on the ratio of the taxa in the metagenome and the parameter optimisation strategy. In particular, optimising for assembly metrics such as N50 can in extreme cases lead to the exclusion of complete genomes from the assembly. Transfering the results of the simulations to a real-world metagenome skimming experiment of the lichen <flowSpan
    style="font-style:italic"
    id="flowSpan40475">Lasallia pustulata</flowSpan>, we not only see a larger species diversity, but also hints to biased sequencing coverage for the algal genome. </flowPara></flowRoot>    <text
        xml:space="preserve"
@@ -37239,25 +37239,6 @@
          y2="-50"
          style="fill:none" />
     </g>
-    <g
-       id="g219317"
-       transform="matrix(0.49636541,0,0,0.49636541,106.02743,846.64954)">
-      <rect
-         id="rect219306"
-         height="264"
-         width="264"
-         y="0"
-         x="0"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="elements-1">
-        <path
-           id="path219309"
-           d="m 16,16 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 64,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -128,8 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -160,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 72,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -208,8 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -184,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 40,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -176,8 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -200,8 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -208,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 40,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 56,0 8,0 0,8 -8,0 z m -208,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 80,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -208,8 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 40,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 40,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 40,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 40,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -160,8 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -208,8 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -200,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 64,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 40,0 8,0 0,8 -8,0 z m -200,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 72,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z"
-           style="fill:#000000"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
@@ -37266,9 +37247,9 @@
        id="text229767"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan229769"
          x="16.748043"
-         y="1002.292">doi:10.6084/m9.figshare.1046678</tspan></text>
+         y="1002.292"
+         id="tspan13864">doi:10.6084/m9.figshare.1466892</tspan></text>
     <rect
        ry="3.999814"
        rx="3.999814"
@@ -40367,7 +40348,7 @@
          id="flowPara266065"
          style="font-size:20px;text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold;text-align:justify;text-anchor:start"
-   id="flowSpan266067">Figure 3: </flowSpan>Assembly results for the 11 data sets and the different assemblers. Bars are centered at total assembly length, red lines are reference lengths. Height of the bars shows the NG50 size. For the assemblies with the asterisk the total assembly length was below 50% of the reference length. A default height was used in those instances.</flowPara></flowRoot>    <rect
+   id="flowSpan266067">Figure 3: </flowSpan>Assembly results for the 11 twin sets and the different assemblers. Bars are centered at total assembly length, red lines are reference lengths. Height of the bars shows the NG50 size. For the assemblies with the asterisk the total assembly length was below 50% of the reference length. A default height was used in those instances.</flowPara></flowRoot>    <rect
        style="opacity:0.13168724;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
        id="rect266106"
        width="722.63727"
@@ -47680,17 +47661,17 @@
          id="flowPara306061"
          style="font-size:26px">Mixing data from different species inflates the assembler performance differences, with <flowSpan
    style="font-size:26px;font-style:italic"
-   id="flowSpan17685">MIRA &amp; SPAdes</flowSpan> yielding the most contiguous sequences. </flowPara><flowPara
+   id="flowSpan17685">MIRA &amp; SPAdes</flowSpan> yielding the most contiguous sequences throughout all twin sets. </flowPara><flowPara
          style="font-size:26px"
          id="flowPara24575" /><flowPara
          style="font-size:26px"
          id="flowPara24577" /><flowPara
          style="font-size:26px"
-         id="flowPara105613">For metagenomes optimising the assembly parameters using the N50 size as quality measurecan lead to the preclusion of entire genomes.</flowPara><flowPara
+         id="flowPara105613">Optimising the assembly parameters using the N50 size as quality measure can lead to the preclusion of entire species represented in a metagenome.</flowPara><flowPara
          style="font-size:26px"
-         id="flowPara19320"></flowPara><flowPara
+         id="flowPara19320" /><flowPara
          style="font-size:26px"
-         id="flowPara19323">Despite a 10x coverage, the algal genome assembly is highly fragmented, representing &lt;1/4 of the estimated genome size. This may be due to an uneven algal genome coverage, resulting from a biased library preparation.</flowPara></flowRoot>    <path
+         id="flowPara19323">Despite a 10x coverage, the algal genome assembly is highly fragmented, representing &lt;1/4 of the estimated genome size. This hints towards an uneven algal genome coverage, as a result of a biased library preparation.</flowPara></flowRoot>    <path
        sodipodi:type="arc"
        style="fill:#808080;fill-opacity:1;stroke:none"
        id="path105623"
@@ -47963,7 +47944,7 @@
          id="flowPara133488"
          style="text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold"
-   id="flowSpan24583">Single species data </flowSpan>Almost all assemblers reconstruct the two genomes over their full length from the simulated sequences (Figure 3, column 0:10 &amp; 10:0), however with varying contiguity. For the alga most assemblers exceeded the NG50 size of the original draft assembly. For the fungus, it appears that the repetitive nature of the genome (c.f. Fig. 2) hinders the generation of longer contigs with the present WGS library layout (Figure 4). </flowPara><flowPara
+   id="flowSpan24583">Single species data </flowSpan>Almost all assemblers reconstruct the two genomes over their full length from the simulated sequences (Fig. 3, column 0:10 &amp; 10:0), however with varying contiguity. For the alga most assemblers exceeded the NG50 size of the original draft assembly. For the fungus, it appears that the repetitive nature of the genome (c.f. Fig. 2) hinders the generation of longer contigs with the present WGS library layout (Fig. 4). </flowPara><flowPara
          id="flowPara133519"
          style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara133521"
@@ -47981,21 +47962,21 @@
          id="flowPara133529"
          style="text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold"
-   id="flowSpan19313">Parameter optimization for N50 impairs metagenome assembly </flowSpan>Contigs from the low coverage genomes tend to be short, decreasing the overall N50 size. Increasing the word length k to larger values shifts the word frequencies of the low coverage genomes to overlap with those introduced by sequencing errors (Fig. 6). Thus they are ignored during assembly, increasing the N50 size.</flowPara><flowPara
+   id="flowSpan19313">Parameter optimization for N50 impairs metagenome assembly </flowSpan>Contigs from the low coverage genomes tend to be short, decreasing the overall N50 size. Increasing the word length k to larger values shifts the word frequencies of the low coverage genomes to overlap with those introduced by sequencing errors (Fig. 6). Consequently, they are ignored during assembly resulting in a larger N50 size.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara20121"><flowSpan
            style="font-style:italic;font-weight:bold"
-           id="flowSpan20123"></flowSpan></flowPara><flowPara
+           id="flowSpan20123" /></flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara20128"><flowSpan
    style="font-style:italic;font-weight:bold"
-   id="flowSpan20130">L. pustulata </flowSpan>The assembly was done with <flowSpan
+   id="flowSpan20130">L. pustulata </flowSpan>The WGS data was assembled with <flowSpan
    style="font-style:italic"
-   id="flowSpan17970">MIRA </flowSpan>and the contigs were taxonomically assigned using <flowSpan
+   id="flowSpan17970">MIRA </flowSpan>and contigs were taxonomically assigned using <flowSpan
    style="font-style:italic"
    id="flowSpan133783">MEGAN</flowSpan> [13]. The algal assembly is much more fragmented than expected given the <flowSpan
    style="font-style:italic"
-   id="flowSpan24595">in silico</flowSpan> study. (Box III). It appears that this is a result of a biased library preparation, yielding a highly uneven read coverage for the algal genome. </flowPara></flowRoot>    <text
+   id="flowSpan24595">in silico</flowSpan> study (Box III). It appears that this is a result of a biased library preparation, yielding a highly uneven read coverage for the algal genome. </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:30.1848259px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        x="2765.9053"
@@ -48061,19 +48042,23 @@
          style="font-size:18px"
          id="flowPara17735">[7] Zerbino DR and Birney E. Genome Research (2008) 18:821-829. </flowPara><flowPara
          style="font-size:18px"
-         id="flowPara17737">[8] Namiki T, Hachiya T, Tanaka H, Sakakibara Y. Nucleic Acids Res, (2012) 40(20), e155 </flowPara><flowPara
+         id="flowPara17737"></flowPara><flowPara
          style="font-size:18px"
-         id="flowPara17739">[9] Bankevich A, Nurk S, Antipov D et al. Journal of Computational Biology (2012) 19(5):455-477</flowPara><flowPara
+         id="flowPara13761"></flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara13763"></flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara13765"></flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara13767">[8] Namiki T, Hachiya T, Tanaka H, Sakakibara Y. Nucleic Acids Res, (2012) 40(20), e155 </flowPara><flowPara
+         style="font-size:18px"
+         id="flowPara13753">[9] Bankevich A, Nurk S, Antipov D et al. Journal of Computational Biology (2012) 19(5):455-477</flowPara><flowPara
          id="flowPara164492"
          style="font-size:18px">[10] http://sourceforge.net/projects/mira-assembler/ </flowPara><flowPara
          style="font-size:18px"
          id="flowPara17743">[11] Haider B, Ahn T, Bushnell B et al. Bioinformatics (2014) btu395</flowPara><flowPara
-         id="flowPara164494"
-         style="font-size:18px">[12] Simpson JT and Durbin R. Bioinformatics (2010) 26 (12): i367-i373 </flowPara><flowPara
          style="font-size:18px"
-         id="flowPara161671">[13] Stanke M, Steinkamp R, Waack S and Morgenstern B (2004) Nucleic Acids </flowPara><flowPara
-         style="font-size:18px"
-         id="flowPara161675">Research, Vol. 32, W309-W312 </flowPara></flowRoot>    <text
+         id="flowPara161675">[12] Simpson JT and Durbin R. Bioinformatics (2010) 26 (12): i367-i373 </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="651.89185"
@@ -49386,16 +49371,16 @@
          style="font-size:24px;text-align:center;text-anchor:middle"
          id="tspan38099-2">Merge reads simulated from either reference genomes into <tspan
    style="font-style:italic"
-   id="tspan19303">L. pustulata</tspan> twin data sets with </tspan><tspan
+   id="tspan19303">L. pustulata</tspan> twin sets with </tspan><tspan
          sodipodi:role="line"
          x="742.71442"
-         y="-1064.4246"
+         y="-1064.3884"
          style="font-size:24px;text-align:center;text-anchor:middle"
          id="tspan38129">varying coverage ratios for the two genomes.</tspan></text>
     <g
        style="stroke-linecap:butt;stroke-linejoin:round"
        id="g38176-7"
-       transform="matrix(-0.67589471,0.7369982,0.7369982,0.67589471,2042.0504,-916.83042)">
+       transform="matrix(-0.01536919,0.999664,0.59273019,0.02592078,1478.2422,-2052.1455)">
       <text
          transform="matrix(0,2.0338151,-0.49168677,0,0,0)"
          sodipodi:linespacing="125%"
@@ -49466,7 +49451,7 @@
          style="font-size:20px;font-weight:normal"
          id="tspan39771"><tspan
    id="tspan39777"
-   style="font-size:20px;font-weight:bold">Figure 1: </tspan>Workflow for generating twin sets, resembling a real sequencing data set with respect to insert size distribution, read number and read length.</tspan></text>
+   style="font-size:20px;font-weight:bold">Figure 1: </tspan>Workflow for generating twin sets resembling a real sequencing experiment with respect to insert size distribution, read number and read length.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
@@ -49523,9 +49508,9 @@
          style="text-align:justify;text-anchor:start"
          id="flowPara161835">DNA from a thallus of<flowSpan
    style="font-style:italic;text-align:justify;text-anchor:start"
-   id="flowSpan40145"> Lasallia pustulata </flowSpan>was sequenced using Illumina MiSeq technology, yielding 15 million read pairs with a read length of 250 bp. To estimate the insert size distribution, we joined overlapping read pairs using <flowSpan
+   id="flowSpan40145"> Lasallia pustulata </flowSpan>was sequenced using Illumina MiSeq technology, yielding 15 million paired-end reads with a length of 250 bp. To estimate the insert size distribution, we joined overlapping read pairs using <flowSpan
    style="font-style:italic;text-align:justify;text-anchor:start"
-   id="flowSpan40394">FLASH</flowSpan> [1] and fitted a censored Weibull distribution to the observed insert size distribution (Figure 1, A).</flowPara><flowPara
+   id="flowSpan40394">FLASH</flowSpan> [1] and fitted a censored Weibull distribution to the observed insert size distribution (Fig. 1, A).</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara162686" /><flowPara
          style="text-align:justify;text-anchor:start"
@@ -49533,13 +49518,15 @@
    style="font-style:italic"
    id="flowSpan133699">Cladonia grayi</flowSpan> [2] and <flowSpan
    style="font-style:italic"
-   id="flowSpan133701">Asterochloris sp.</flowSpan> [3] were each concatenated to create a contiguous pseudo-chromosome, respectively (Figure 1, B). Both were checked for repeat content &amp; self-similarity using Repeatmasker [4] (Box 1) and Gepard [5] (Fig 2.)</flowPara><flowPara
+   id="flowSpan133701">Asterochloris sp.</flowSpan> [3] were each concatenated to create a contiguous pseudo-chromosome, respectively (Fig. 1, B). Both were checked for repeat content [4] (Box 1) &amp; self-similarity [5] (Fig. 2).</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara162688" /><flowPara
          id="flowPara40406"
-         style="text-align:justify;text-anchor:start">Using the pseudo-chromosomes as templates, we simulated reads using ART [6], parameterized with the values estimated from the <flowSpan
+         style="text-align:justify;text-anchor:start">Using the pseudo-chromosomes as templates, we simulated reads with <flowSpan
    style="font-style:italic"
-   id="flowSpan19305">L. pustulata</flowSpan> data . The reads were used to compile 11 twin sets  by mixing fungal and algal reads at varying ratios (Table 1).</flowPara></flowRoot>    <text
+   id="flowSpan13743">ART</flowSpan> [6], parameterized with the values estimated from the <flowSpan
+   style="font-style:italic"
+   id="flowSpan19305">L. pustulata</flowSpan> data. Subsequently, we compiled 11 twin sets by mixing simulated fungal and algal reads at varying ratios (Table 1).</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
        x="2512.6404"
@@ -49686,5 +49673,123 @@
        y="2825.3259"
        transform="translate(0,-3160.6299)"
        rx="0.16451879" />
+    <image
+       y="843.79834"
+       x="104.61581"
+       id="image13861"
+       xlink:href="data:image/png;base64,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
+AAAAAElFTkSuQmCC
+"
+       height="131"
+       width="131"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
   </g>
 </svg>
